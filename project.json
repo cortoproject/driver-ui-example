@@ -1,0 +1,11 @@
+{
+    "id": "driver/ui/example",
+    "type": "package",
+    "value": {
+        "description": "Empty UI project",
+        "author": "Sander Mertens",
+        "version": "1.0.0",
+        "language": "none",
+        "icon": "style"
+    }
+}
