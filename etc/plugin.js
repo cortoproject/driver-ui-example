@@ -22,4 +22,6 @@ Vue.component('plugin-example', {
   `
 });
 
-app.plugin_loaded("example");
+app.plugin_loaded("example", function() {
+    console.log("This code is executed once upon loading the plugin");
+});
